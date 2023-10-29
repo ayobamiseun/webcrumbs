@@ -1,12 +1,20 @@
- <img
-    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/repository-open-graph.png"
+<p align="center">
+  <b><u>
+    New! Launched on September 13, 2023
+      </u></b>
+</p>
+<img
+    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/og-4.png"
     alt="WebCrumbs open graph"
-  /> 
-<br/>
-<br/>
-  <h1 align="center">
-  Welcome to WebCrumbs
-</h1>
+/> 
+<img width="0" height="0" src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-2CMHQ8M349&cid=555&dl=https%3A%2F%2Fgithub.com%2Fwebcrumbs-community%2Fwebcrumbs&dt=Main%20Repo"/>
+<p align="center">
+<img
+    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/logo.svg"
+    alt="WebCrumbs logo"
+    width="300px"
+/> 
+</p>
 <h3 align="center">
   The next evolution in React-based web development
 </h3>
@@ -80,12 +88,13 @@
 </p>
 
 <br/>
-<br/>
 
+<p align="center">
 <img
-    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/cover.png"
+    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/Mac Monitor Faded.png"
     alt="WebCrumbs concept"
   />
+</p>
 
 ## Introduction
 WebCrumbs aspires to be an industry-standard solution for React applications, positioned as the "WordPress for React." Whether you're a developer or not, you'll find it effortless to create, manage, and scale your React-based websites using our intuitive admin panel.
